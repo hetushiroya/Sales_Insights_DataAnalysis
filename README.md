@@ -9,5 +9,6 @@ Steps:
 
 
 A snippet of the Dashboard
-![image](https://github.com/user-attachments/assets/bb5ed664-b0f3-4bc1-aa59-56d0f50966d8)
+![image](https://github.com/user-attachments/assets/fb66d39f-5b82-4d27-bdae-250c4e7201a5)
+
 
